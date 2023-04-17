@@ -1,13 +1,33 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto TrybeTunes
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Nesse projeto desenvolvi uma aplicação capaz de reproduzir músicas das mais variadas bandas e artistas, criar uma lista de músicas favoritas e editar o perfil da pessoa usuária logada.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+Ainda não esta possível testar esse projeto
+
+<!-- [Testar Projeto](https://jonathankarlinski.github.io/pixels-art/) -->
+
+## Conhecimentos Utilizados
+
+- HTML
+- CSS
+- Java Script
+- Fazer requisições e consumir dados vindos de uma API
+- Utilizar os ciclos de vida de um componente React
+- Utilizar a função setState de forma a garantir que um determinado código só é executado após o estado ser atualizado
+- Utilizar o componente BrowserRouter corretamente
+- Criar rotas, mapeando o caminho da URL com o componente correspondente, via Route
+- Utilizar o Switch do React Router
+- Criar links de navegação na aplicação com o componente Link
+
+## Demonstração
+
+Demonstração ainda não disponível 
+<!-- ![pixels-art-gif](pixels-art.gif) -->
+
+## Feedback
+
+Se você tiver algum feedback, posso ser encontrado em
+
+  <a href = "mailto:jonathankarlinski57@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/jonathankarlinski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
