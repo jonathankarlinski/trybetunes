@@ -1,0 +1,11 @@
+.notFound-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10rem;
+  
+  h1 {
+    color: $second-color;
+    font-size: 10rem;
+  }
+}

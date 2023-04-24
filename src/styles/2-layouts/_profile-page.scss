@@ -1,0 +1,49 @@
+.profile-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+
+  &-info {
+    background-color: $fifth-color;
+    display: flex;
+    padding: 1rem 1.5rem;
+    flex-direction: column;
+    gap: 0.5rem;
+    border-radius: 0.5rem;
+    width: 30%;
+
+    img {
+      height: 15rem;
+      width: 100%;
+    }
+
+    &-itens {
+      font-size: 1.2rem;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      // justify-content: center;
+      gap: 0.2rem;
+
+      p {
+        border-radius: 0.5rem;
+        background-color: white;
+        color: black;
+        padding: 0.3rem;
+        font-weight: 0;
+        // font-size: 1rem;
+      }
+    }
+
+    button {
+      color: white;
+      width: 100%;
+      border-radius: 0.5rem;
+      padding: 0.2rem;
+      background: $second-color;
+      border: none;
+      font-size: 1.5rem;
+    }
+  }
+}

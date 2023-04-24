@@ -1,0 +1,23 @@
+.favorites-container {
+  width: 100%;
+
+  &-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-top: 1rem;
+    color: $ten-color;
+  }
+
+  &-menssage {
+    color: $ten-color;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-top: 1rem;
+  }
+}
