@@ -5,12 +5,13 @@ Nesse projeto desenvolvi uma aplicação capaz de reproduzir músicas das mais v
 
 Ainda não esta possível testar esse projeto
 
-<!-- [Testar Projeto](https://jonathankarlinski.github.io/pixels-art/) -->
+[Testar Projeto](https://jonathankarlinski.github.io/trybetunes/#/)
 
 ## Conhecimentos Utilizados
 
+- React.Js
 - HTML
-- CSS
+- SCSS
 - Java Script
 - Fazer requisições e consumir dados vindos de uma API
 - Utilizar os ciclos de vida de um componente React
