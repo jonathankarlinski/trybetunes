@@ -122,7 +122,9 @@ class Search extends React.Component {
                         <div
                           className="search-container-list-albums-details"
                         >
-                          <p>
+                          <p
+                            className="search-container-list-albums-details-title"
+                          >
                             {album.collectionName}
                           </p>
                           <p

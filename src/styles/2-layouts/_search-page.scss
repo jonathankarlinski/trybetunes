@@ -76,28 +76,25 @@
         width: 85%;
         object-fit: cover;
         margin: 1rem;
+        border-radius: 0.5rem;
       }
 
       &-details {
         width: 100%;
+        display: flex;
+        justify-items: center;
+        justify-content: center;
 
-        p {
+        &-title {
+          width: 100%;
           color: white;
           transition: 0.4s;
           font-size: 1.2rem;
-          font-weight: 500;
-          padding: 0.5rem;
-
-          &:visited {
-            color: aqua;
-            text-decoration: none;
-          }
+          text-align: center;
         }
-
         &-name {
-          color: white;
+          color: gray;
           font-size: 1rem;
-          font-weight: 600;
         }
       }
     }
