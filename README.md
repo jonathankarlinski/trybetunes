@@ -2,9 +2,6 @@
 
 Nesse projeto desenvolvi uma aplicação capaz de reproduzir músicas das mais variadas bandas e artistas, criar uma lista de músicas favoritas e editar o perfil da pessoa usuária logada.
 
-
-Ainda não esta possível testar esse projeto
-
 [Testar Projeto](https://jonathankarlinski.github.io/trybetunes/#/)
 
 ## Conhecimentos Utilizados
@@ -23,12 +20,12 @@ Ainda não esta possível testar esse projeto
 
 ## Demonstração
 
-Demonstração ainda não disponível 
+Demonstração ainda não disponível
 <!-- ![pixels-art-gif](pixels-art.gif) -->
 
 ## Feedback
 
 Se você tiver algum feedback, posso ser encontrado em
 
-  <a href = "mailto:jonathankarlinski57@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/jonathankarlinski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathankarlinski/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathankarlinski57@gmail.com)
