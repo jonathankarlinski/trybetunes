@@ -34,6 +34,7 @@ class Profile extends Component {
               <img
                 src={ users.image ? users.image : iconUser }
                 alt={ `Foto do usúario: ${users.name}` }
+                className="ImgUser"
               />
               <p
                 className="profile-container-info-itens"

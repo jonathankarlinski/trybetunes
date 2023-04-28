@@ -68,7 +68,11 @@ class ProfileEdit extends Component {
               className="profileEdit-container-form"
             >
               <h2>Atualizar Perfil</h2>
-              <img src={ image === '' ? iconUser : image } alt="" />
+              <img
+                src={ image === '' ? iconUser : image }
+                alt={ `Foto do usúario: ${name}` }
+                className="ImgUser"
+              />
               <label htmlFor="idName">
                 Nome *
                 <input
@@ -98,8 +102,6 @@ class ProfileEdit extends Component {
                   value={ description }
                   onChange={ this.validateValues }
                   name="description"
-                  rows="5"
-                  cols="30"
                 />
 
               </label>

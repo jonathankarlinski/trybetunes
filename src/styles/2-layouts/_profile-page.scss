@@ -11,19 +11,13 @@
     flex-direction: column;
     gap: 0.5rem;
     border-radius: 0.5rem;
-    width: 30%;
-
-    img {
-      height: 15rem;
-      width: 100%;
-    }
+    width: 20%;
 
     &-itens {
       font-size: 1.2rem;
       display: flex;
       align-items: center;
       flex-direction: column;
-      // justify-content: center;
       gap: 0.2rem;
 
       p {
@@ -32,7 +26,6 @@
         color: black;
         padding: 0.3rem;
         font-weight: 0;
-        // font-size: 1rem;
       }
     }
 
@@ -46,4 +39,9 @@
       font-size: 1.5rem;
     }
   }
+}
+.ImgUser{
+  height: 10rem;
+  width: 100%;
+  border-radius: 0.2rem;
 }
