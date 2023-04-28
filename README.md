@@ -20,8 +20,7 @@ Nesse projeto desenvolvi uma aplicação capaz de reproduzir músicas das mais v
 
 ## Demonstração
 
-Demonstração ainda não disponível
-<!-- ![pixels-art-gif](pixels-art.gif) -->
+![trybetunes-gif](./src/images/trybetunes.gif)
 
 ## Feedback
 
