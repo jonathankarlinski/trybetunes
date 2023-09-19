@@ -38,8 +38,8 @@ class ProfileEdit extends Component {
 
   handleButton = () => {
     const { name, email, description } = this.state;
-    const reEmail = /\S+@\S+\.\S+/;
-    const validEmail = reEmail.test(email);
+    const secretEmail = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+    const validEmail = secretEmail.test(email);
     if (name !== '' && description !== '' && validEmail) {
       this.setState({ disabledButton: false });
     } else {
