@@ -1,30 +1,41 @@
-# Projeto TrybeTunes
+<h1 align="center">TrybeTunes</h1>
 
-Nesse projeto desenvolvi uma aplicação capaz de reproduzir músicas das mais variadas bandas e artistas, criar uma lista de músicas favoritas e editar o perfil da pessoa usuária logada.
+<h2 align="center">
+Apresentamos o TrybeTunes, uma aplicação versátil para os amantes da música! Com o TrybeTunes, os usuários podem explorar uma ampla variedade de bandas e artistas, reproduzir músicas, criar listas de reprodução personalizadas e editar seus perfis. Faça login para acessar todas as funcionalidades, pesquise suas bandas ou artistas favoritos, navegue pelos álbuns disponíveis, ouça prévias das músicas, favorite suas faixas preferidas e mantenha uma lista organizada de músicas favoritas. Além disso, os usuários podem visualizar e editar seus perfis, garantindo uma experiência personalizada.
+</h2>
 
-[Testar Projeto](https://jonathankarlinski.github.io/trybetunes/#/)
+<h3 align="center">
+     <a target="_blank" href="https://jonathankarlinski.github.io/trybetunes/#/">Testar Projeto</a>
+</h3>
 
-## Conhecimentos Utilizados
+<h2>🎨 Demonstração</h2>
 
-- React.Js
-- HTML
+<p align="center">
+    <img 
+     src="./src/images/trybetunes.gif"
+     alt="Gif de demonstração do projeto">
+</p>
+
+<h2>🛠 Conhecimentos Utilizados</h2>
+
+- React JS
+- React Router Dom
+- API ITunes
 - SCSS
 - Java Script
-- Fazer requisições e consumir dados vindos de uma API
-- Utilizar os ciclos de vida de um componente React
-- Utilizar a função setState de forma a garantir que um determinado código só é executado após o estado ser atualizado
-- Utilizar o componente BrowserRouter corretamente
-- Criar rotas, mapeando o caminho da URL com o componente correspondente, via Route
-- Utilizar o Switch do React Router
-- Criar links de navegação na aplicação com o componente Link
+- HTML
 
-## Demonstração
+<h2>📫 Feedback</h2>
 
-![trybetunes-gif](./src/images/trybetunes.gif)
+<h3 align="center">
+     Se você tiver algum feedback, posso ser encontrado em:
+</h3>
 
-## Feedback
-
-Se você tiver algum feedback, posso ser encontrado em
-
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathankarlinski/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathankarlinski57@gmail.com)
+<div align="center">
+   <a target="_blank" href="https://www.linkedin.com/in/jonathankarlinski/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a target="_blank" href="mailto:jonathankarlinski57@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+</div>
